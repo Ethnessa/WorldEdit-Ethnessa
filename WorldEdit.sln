@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldEdit", "WorldEdit\WorldEdit.csproj", "{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		x64|Any CPU = x64|Any CPU
+		x64|x64 = x64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Debug|x64.ActiveCfg = Debug|x64
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Debug|x64.Build.0 = Debug|x64
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Release|x64.ActiveCfg = Release|x64
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.Release|x64.Build.0 = Release|x64
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.x64|Any CPU.Build.0 = x64|Any CPU
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.x64|x64.ActiveCfg = x64|x64
+		{A3D1291E-B52B-4FCB-B1B0-EA5F482B37CD}.x64|x64.Build.0 = x64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB549E7-CEA3-4BD2-90DA-D966B001E1B8}
+	EndGlobalSection
+EndGlobal
